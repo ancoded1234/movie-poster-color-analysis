@@ -10,6 +10,7 @@ with sync_playwright() as p:
             page.evaluate('(n)=>{location.hash=String(n)}',i+1);page.wait_for_timeout(500)
             assert page.locator('.slide.active').count()==1
             assert page.locator('#page').inner_text()==f'{i+1:02d} / 12'
+            assert page.locator('.slide.active .kicker').first.bounding_box()['y']>=page.locator('header').bounding_box()['height'],('content overlaps header',w,i+1)
             dims=page.evaluate('''()=>{let s=document.querySelector('.slide.active'),r=s.getBoundingClientRect();let elems=[...s.querySelectorAll('h1,h2,h3,p,table,svg,.palette,.matrix,.spark')];return {width:innerWidth,docWidth:document.documentElement.scrollWidth,bottom:Math.max(...elems.map(x=>x.getBoundingClientRect().bottom)),footer:document.querySelector('footer').getBoundingClientRect().top}}''')
             assert dims['docWidth']<=w+2,('horizontal overflow',w,i+1,dims)
             assert dims['bottom']<=dims['footer']+2,('content overlaps footer',w,i+1,dims)

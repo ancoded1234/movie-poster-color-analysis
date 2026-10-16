@@ -56,7 +56,7 @@
       "slide": 7,
       "width": 1440,
       "docWidth": 1440,
-      "bottom": 662.484375,
+      "bottom": 748.78125,
       "footer": 824
     },
     {
@@ -152,7 +152,7 @@
       "slide": 7,
       "width": 1280,
       "docWidth": 1280,
-      "bottom": 495.484375,
+      "bottom": 563.140625,
       "footer": 644
     },
     {
@@ -248,7 +248,7 @@
       "slide": 7,
       "width": 768,
       "docWidth": 768,
-      "bottom": 627.25,
+      "bottom": 730.90625,
       "footer": 948
     },
     {
@@ -344,8 +344,8 @@
       "slide": 7,
       "width": 390,
       "docWidth": 390,
-      "bottom": 1277.921875,
-      "footer": 1317.921875
+      "bottom": 1070.609375,
+      "footer": 1110.609375
     },
     {
       "height": 844,
