@@ -32,7 +32,7 @@
       "slide": 4,
       "width": 1440,
       "docWidth": 1440,
-      "bottom": 727.921875,
+      "bottom": 738.640625,
       "footer": 824
     },
     {
@@ -40,7 +40,7 @@
       "slide": 5,
       "width": 1440,
       "docWidth": 1440,
-      "bottom": 695.8682861328125,
+      "bottom": 695.859375,
       "footer": 824
     },
     {
@@ -224,7 +224,7 @@
       "slide": 4,
       "width": 768,
       "docWidth": 768,
-      "bottom": 780.3125,
+      "bottom": 791.03125,
       "footer": 948
     },
     {
@@ -296,7 +296,7 @@
       "slide": 1,
       "width": 390,
       "docWidth": 390,
-      "bottom": 691.734375,
+      "bottom": 696.734375,
       "footer": 780
     },
     {
@@ -320,8 +320,8 @@
       "slide": 4,
       "width": 390,
       "docWidth": 390,
-      "bottom": 1082.046875,
-      "footer": 1122.046875
+      "bottom": 1101.84375,
+      "footer": 1141.84375
     },
     {
       "height": 844,

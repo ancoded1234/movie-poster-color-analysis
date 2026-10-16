@@ -5,5 +5,5 @@
   "aggregations_match_csv": true,
   "firecrawl_sources_valid": 4,
   "publishable_files_secret_scan": "passed",
-  "publishable_files": 29
+  "publishable_files": 30
 }
