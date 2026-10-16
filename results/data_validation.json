@@ -1,0 +1,9 @@
+{
+  "label_links_correct": true,
+  "balanced_sample": true,
+  "train_test_hash_disjoint": true,
+  "aggregations_match_csv": true,
+  "firecrawl_sources_valid": 4,
+  "publishable_files_secret_scan": "passed",
+  "publishable_files": 29
+}

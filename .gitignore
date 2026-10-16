@@ -1,0 +1,9 @@
+.env
+.env.*
+.venv/
+data/raw/
+data/firecrawl/*_full.json
+__pycache__/
+node_modules/
+*.zip
+test-results/

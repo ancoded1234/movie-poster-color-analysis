@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://blog.adobe.com/en/publish/2018/02/27/idmovieweek-designing-show-stopping-posters-type",
+    "collected_at": "2026-10-16T02:28:12.492548+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "success": true,
+    "title": "Designing Show-Stopping Posters With Type",
+    "characters": 8347
+  },
+  {
+    "url": "https://arxiv.org/abs/2309.12022",
+    "collected_at": "2026-10-16T02:28:19.310360+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "success": true,
+    "title": "[2309.12022] Demystifying Visual Features of Movie Posters for Multi-Label Genre Identification",
+    "characters": 7568
+  },
+  {
+    "url": "https://www.studiobinder.com/blog/movie-genres-list/",
+    "collected_at": "2026-10-16T02:28:22.926934+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "success": true,
+    "title": "The Ultimate Movie Genres List — 90+ Genre Examples",
+    "characters": 64530
+  },
+  {
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00368/full",
+    "collected_at": "2026-10-16T02:28:24.879094+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "success": true,
+    "title": "Frontiers | Color and psychological functioning: a review of theoretical and empirical work",
+    "characters": 110390
+  }
+]

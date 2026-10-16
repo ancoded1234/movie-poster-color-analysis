@@ -1,0 +1,16 @@
+target_pattern,count
+,2480
+Comedy,1726
+Action,925
+Romance + Comedy,760
+Romance,512
+Horror,331
+Action + Comedy,299
+Horror + Comedy,90
+Horror + Action,64
+Romance + Action,31
+Romance + Action + Comedy,18
+Horror + Romance,10
+Horror + Action + Comedy,5
+Horror + Romance + Comedy,2
+Horror + Romance + Action,1
