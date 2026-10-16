@@ -1,0 +1,28 @@
+{
+  "verified_at": "2026-10-16T02:44:32.089604+00:00",
+  "url": "https://ancoded1234.github.io/movie-poster-color-analysis/",
+  "public_unauthenticated_http": true,
+  "github_pages_status": "built",
+  "source": {
+    "branch": "main",
+    "path": "/docs"
+  },
+  "assets": {
+    "index.html": {
+      "http_status": 200,
+      "sha256": "5c18acde32028ba924ce3d2c04d9deff68ae616092de7e021fcaca1d1bd97216"
+    },
+    "assets/app.js": {
+      "http_status": 200,
+      "sha256": "2235bb4055927f73769d5a68a98878a6fcb784af57b88bde302c15ef9ac9e8f6"
+    },
+    "assets/style.css": {
+      "http_status": 200,
+      "sha256": "0cf3580831d20c4b8e0ec4f26855bda9544954c93491cdf395d35541273571af"
+    },
+    "data/analysis.json": {
+      "http_status": 200,
+      "sha256": "3779bd3637c105dc8ae2f5d404cae113dbb54d9cc9762d3e7c05b77a3a7c132d"
+    }
+  }
+}
